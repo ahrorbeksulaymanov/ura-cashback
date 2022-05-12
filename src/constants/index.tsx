@@ -1,0 +1,1 @@
+export const PATH_API = "https://api.uracashback.uz"
